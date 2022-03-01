@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The recompence of the righteous Being a iewell fit to be placed in euery Christians heart. Preached in a sermon at Linfield in Sussex, and published at the request of some well disposed Christians. By Humphrey Euerenden.</title>
+            <author>Everinden, Humphrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13495</idno>
+            <idno type="STC">STC 10601.3</idno>
+            <idno type="STC">ESTC S120474</idno>
+            <idno type="EEBO-CITATION">99855670</idno>
+            <idno type="PROQUEST">99855670</idno>
+            <idno type="VID">176848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B13495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176848)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 713:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The recompence of the righteous Being a iewell fit to be placed in euery Christians heart. Preached in a sermon at Linfield in Sussex, and published at the request of some well disposed Christians. By Humphrey Euerenden.</title>
+                  <author>Everinden, Humphrey.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Iones for Robert Bird, and are to be sold at the signe of the Bible in Cheape-side,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1626.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface dated 1624.</note>
+                  <note>Identified as STC 10601a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176848:1"/>
+            <pb facs="tcp:176848:1"/>
+            <p>THE RECOMPENCE OF THE RIGH<g ref="char:EOLhyphen"/>TEOVS.</p>
+            <p>Being a Iewell fit to be pla<g ref="char:EOLhyphen"/>ced in euery Chriſtians heart.</p>
+            <p>Preached in a Sermon at <hi>Lin<g ref="char:EOLhyphen"/>field</hi> in <hi>Suſsex,</hi> and publiſhed at the requeſt of ſome well diſ<g ref="char:EOLhyphen"/>poſed Chriſtians.</p>
+            <p>By HVMPHREY EVERENDEN.</p>
+            <p>The ſecond Edition.</p>
+            <p>LONDON, Printed by WILLIAM IONES for ROBERT BIRD, and are to be ſold at the ſigne of the Bible in Cheape<g ref="char:EOLhyphen"/>ſide. 1626</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:176848:2"/>
+            <head>TO THE CHRISTIAN READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hinke it not ſtrange belo<g ref="char:EOLhyphen"/>ued in Chriſt Ieſus, I come in with my poore mite a<g ref="char:EOLhyphen"/>mongſt the rich gifts of ma<g ref="char:EOLhyphen"/>ny learned writers publiſhed in the kingdome (whoſe excellencie I reuerence, and whoſe earneſt I earneſtly deſire, for the benefit of Gods Church, and the confuſion of the kingdome of Satan.) It is the benefit of the ſimple I deſire and ayme at; if thou canſt from ſo ſilly flower ſucke but one drop of honey to ſweeten thy ſoule, my labour is not loſt, my gift not to be deſpiſed, reade then and conſider, and God grant his bleſſings to reſt on his owne ordinance, to the glo<g ref="char:EOLhyphen"/>ry of his bleſſed name, Amen.</p>
+            <closer>
+               <dateline>
+                  <hi>Linfield</hi> in <hi>Suſſex,</hi> 
+                  <date>September the 26, 1624.</date>
+               </dateline>
+               <signed>Thine in Chriſt <hi>Humphry Euer<g ref="char:EOLhyphen"/>euden</hi> the vnworthy Miniſter of Chriſt in that place.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:176848:2"/>
+            <head>THE RECOMPENCE of the Righteous. A SERMON PREACHED at <hi>Linfield</hi> in <hi>Suſſex.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>MATH. 25. verſ. 46.</bibl>
+                  <p>And the Righteous ſhall goe into life e<g ref="char:EOLhyphen"/>ternall.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the Parable of the Tares, <hi>Math.</hi> 13.24 our Sauiour Chriſt ſheweth that it is Gods pleaſure, that in this life the wic<g ref="char:EOLhyphen"/>ked ſhall not be rooted out from amongſt the righteous: and yet at the harueſt, that is at the later day, there ſhall be a difference made betwéen them. Now in this example of the generall Iudgeme<g ref="char:cmbAbbrStroke">̄</g>t of that day, our Sauiour ſhew<g ref="char:EOLhyphen"/>eth, that the difference then made ſhall
+<pb n="2" facs="tcp:176848:3"/> bée foure-fold. Firſt, of their Perſons <hi>verſe</hi> 23. Secondly, of their workes, <hi>verſe</hi> 35.42. Thirdly, of their condition, <hi>verſe</hi> 34, 41. Fourthly, of their reward, in this 46. <hi>verſe,</hi> Of the peculiar of the righteous I make choyce at this time to ſpeake, that it may be an incouragement to the euill to forſake their wicked waies, to liue the life of the righteous, that their latter end may be like vnto his: and to the good to perſeuer in their righteous re<g ref="char:EOLhyphen"/>ſolutions begun, that their labour may not be in vaine in the Lord. Curious de<g ref="char:EOLhyphen"/>uiſion of the words I purpoſely omit, one<g ref="char:EOLhyphen"/>ly as they ly they yeald vs this inſtruction.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> That the iuſt ſhall aſſuredly receiue the recompence of eternall happineſſe in the life to come. This doctrine is further confirmed by theſe text of Scripture, <hi>Math.</hi> 13.43. <hi>Dan.</hi> 12.2. <hi>Ro.</hi> 2.7. 1 <hi>Cor.</hi> 2 9. 2 <hi>Tim.</hi> 3.8.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> Becauſe the members of that body whereof Chriſt is the head, who being entred into the glory before, his members muſt néedes follow and not be left behind: for hee accounteth himſelfe not full with<g ref="char:EOLhyphen"/>out them, for which cauſe the Church is called his fulneſſe, <hi>Epheſ.</hi> 1.23.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Becauſe they are freed from the curſe
+<pb n="3" facs="tcp:176848:3"/> of the Law, whereunto they are natural<g ref="char:EOLhyphen"/>ly ſubiect for their corruptions and tranſ<g ref="char:EOLhyphen"/>greſſions, and being deliuered from the curſe, are made partakers of the bleſſing. <hi>Gal.</hi> 3.13.14.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Becauſe they are cloathed with the righteouſnes of Chriſt, ſo althought they be by nature impure and vnholy, yet in the righteouſneſſe of Chriſt made theirs, they ſtand in Gods ſight righteous and holy as he is, 1 <hi>Cor.</hi> 1.30.</p>
+            <p>For our further inſtruction in this point foure things are to be conſidered.</p>
+            <p>Firſt, why the happineſſe of the bleſſed is called life.</p>
+            <p>Secondly, wherein their happineſſe conſiſteth.</p>
+            <p>Thirdly, how many ſorts of thoſe that are to be partakers of this happineſſe.</p>
+            <p>Fourthly, by what meanes wée ſhall attaine to it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſi. </seg>1</label> For the firſt, the happines of the bleſſed is not therefore called life, becauſe it hath <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſemblance of our temporall life, as ſome <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uppoſe: but on the contrary the courſe of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur pilgrimage is called life, becauſe of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall reſemblance it hath of the ſtate of the glorified: for the happines of the bleſ<g ref="char:EOLhyphen"/>ſed is the true life, who liue neuer to dye,
+<pb n="4" facs="tcp:176848:4"/> and inioy that light that ſhall neuer be ob<g ref="char:EOLhyphen"/>ſerued: on the contrary our age is ſo far from being a true life, as that it is a very death, becauſe euery moment of our life is a ſteppe to death: and as <hi>Seneca</hi> ſaith, <hi>quotidie morinum quotidie en demitur aliquo pars vitae:</hi> wée die daily, for euery day ſome part of our life is taken away: a mortall man from the firſt moment of his quickning is drawing on (as wée ſay) to death.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſi. </seg>2</label> For the ſecond, wherein the happineſſe of the glorified conſiſteth. As the puniſh<g ref="char:EOLhyphen"/>ment of the damned ſtandeth generally in two things <hi>paena damni et paena ſenſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</hi> the loſſe of happines, and the ſenſe of tor<g ref="char:EOLhyphen"/>ments. So doth the happineſſe of the glo<g ref="char:EOLhyphen"/>rified conſiſt in abſolute fréedome from all euill, and a full poſſeſſion of all good. <hi>Apo:</hi> 21.4.5.</p>
+            <p>Their poſitiue goods y<hi rend="sup">e</hi> ſecond part of their hap<g ref="char:EOLhyphen"/>pines ſtand in 3. things.
+<list>
+                  <item>Prerogatiues</item>
+                  <item>Poſſeſſions.</item>
+                  <item>Properties.</item>
+               </list>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Prero∣gatiue. </seg>1</label> Their firſt prerogatiue is that which is giuen them. <hi>Apo.</hi> 1.6. <hi>That they ſhall be made Kings and Prieſts to God the Fa<g ref="char:EOLhyphen"/>ther:</hi> Chriſtians are Kings and Prieſts in this life Kings; ſo far as they rule ouer their ſinful affections, Prieſts, in offering
+<pb n="5" facs="tcp:176848:4"/> vp ſacrifices of prayer, praiſe, &amp; ſanctified liues to God: but in their eſtate of happi<g ref="char:EOLhyphen"/>neſſe their regalitie and prieſt-hood ſhalbe perfected, inſomuch as they ſhall fully reigne ouer all ſin and ſinfull affections, and ſhall offer vp ſuch ſacrifices vnto God in prayſes, as ſhall be frée from ſpot and imperfection.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Prero▪ </seg>2</label> Their ſecond prerogatiue is giuen by our Sauiour Chriſt: <hi>Math:</hi> 19.28. <hi>yee which followed mee in the regeneration, ſhall ſit vpon the twelue thrones, and iudge the twelue tribes of Iſrael,</hi> and con<g ref="char:EOLhyphen"/>firmed by the Apoſtle: <hi>The Saints ſhall iudge the world: the Saints ſhall iudge the Angels,</hi> 1 <hi>Cor.</hi> 6.2.3. ſo that they ſhall haue the prerogatiue not onely of Kings and Prieſts, but alſo of Iudges, the firſt concerneth the whole continuance of their eſtate in happineſſe, the ſecond one<g ref="char:EOLhyphen"/>ly the beginning thereof.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Poſſeſſe. </seg>
+               </label> The things they poſſeſſe are of 2. ſorts
+<list>
+                  <item>1. Such as concerne the body only.</item>
+                  <item>2. Such as concerne both body and ſoule.</item>
+               </list>
+            </p>
+            <p>Firſt, that which concerneth the body is, that it ſhalbe cloathed with immortali<g ref="char:EOLhyphen"/>tie and incorruption, ſo that it ſhall be no longer ſubiect to death or changing, nor
+<pb n="6" facs="tcp:176848:5"/> turne into a corruptible carcaſſe. 1 <hi>Cor.</hi> 15.53.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, the body ſhall bée cloathed with great and excellent glory, <hi>Math.</hi> 13.43. yet in that glory ſhall be differences, <hi>ſecundum magis &amp; minus,</hi> according to their differences in meaſure of grace whilſt they liued here.<note place="margin">Dan. 12.3.</note> 1 <hi>Cor.</hi> 15.41.42.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> That which concerneth both ſoule and body, is that they both ſhall be filled with all true ioyes and delights for euer. <hi>Pſal.</hi> 36.8. <hi>Eſay</hi> 51.11. and how great theſe ioyes ſhall bee our Sauiour Chriſt doth ſhew, where he calleth it, <hi>our Maſters ioy. Math.</hi> 25.12. that is, that ioy which our Sauiour Chriſt our Lord and Maſter is entred into. Now if the peace of conſcie<g ref="char:cmbAbbrStroke">̄</g>ce being only a taſt of theſe ioyes, be ſo great as that it <hi>paſſeth all vnderſtanding. Phil.</hi> 4.7. oh how vnſpeakable ſhall theſe ioyes bee in the full fruition and poſſeſſion of them. Furthermore, all theſe pleaſures procéede from the viſion and ſight of God as the beames from the Sun, 1 <hi>Cor.</hi> 13.12. 1 <hi>Ioh.</hi> 3.2. and the reaſon is becauſe true delights doe reſt there, and are there to be found, as in the fountaine and well<g ref="char:EOLhyphen"/>ſpring of them. <hi>pſal.</hi> 16.11.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Their excellent properties although
+<pb n="7" facs="tcp:176848:5"/> they be many, yet may bee reduced vnto two heads.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Propert. </seg>
+               </label> Firſt, they ſhall haue abſolute and per<g ref="char:EOLhyphen"/>fect knowledge which ſo much ſhall excéed the greateſt meaſure of knowledge in this life, as the whole excéeds the part, 1 <hi>Cor.</hi> 13.12.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> Whether ſhall wée know each other in the life to come. </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Aſw. </seg>
+               </label> Some hold yea; and that our know<g ref="char:EOLhyphen"/>ledge in that kinde ſhalbe ſo much increa<g ref="char:EOLhyphen"/>ſed, as that we ſhall know not onely thoſe whom wée haue knowne here, but alſo o<g ref="char:EOLhyphen"/>thers whom wée neuer knew. Others de<g ref="char:EOLhyphen"/>ny it, becauſe they ſay, all earthly know<g ref="char:EOLhyphen"/>ledge ſhall bée taken away, but to know my father mother, &amp;c. in the life to come is an earthly knowledge, and therfore paſſed amongſt the firſt things. I reply if by an earthly knowledge they mean this know<g ref="char:EOLhyphen"/>ledge ioyned with earthly reſpects (as of obedince, as to an earthly father, &amp;c.) I grant there ſhall bée no ſuch knowledge: If by an earthly knowledge, they meane the knowledge &amp; remembrance of things done on the earth, and paſſed, I ſay it is falſe to ſay the glorified can haue no ſuch knowledge: for why doe the glorified Martyrs cry out, <hi>how long Lord, how
+<pb n="8" facs="tcp:176848:6"/> long, &amp;c. Apoc.</hi> 6.10. if they did not both know and remember their perſecutions? Thirdly, if by an earthly knowledge they meane a naturall knowledge, I anſwer, that in ſo much as the glorified Saints ſhall not be altogecher deliuered from the properties of a naturall man, but from ſuch as perticipate of imperfection and corruption, I ſée no reaſon why he ſhould be debarred from a naturall knowledge not imperfect or corrupt, but to know this perſon to haue béene my father, mother, or the like, doth not more partake of im<g ref="char:EOLhyphen"/>perfection or corruption, then to know and remember in that life, the perſecuti<g ref="char:EOLhyphen"/>ons and afflictions of the life paſſed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Proper. </seg>2</label> Their ſecond excellent property ſhalbe increaſe of their loue towards God, which as a flame ſhall riſe vp to God: many wa<g ref="char:EOLhyphen"/>ters gathered together into one, make a ſea, ſo when all our ſelf-loue, loue of wife, parents, children, earthly things, yea, of ſinfull luſtes is all turned into the loue of God, then doubtleſſe great and glorious ſhall be our loue. And this great loue of God is the motiue that ſtirreth vp the glo<g ref="char:EOLhyphen"/>rified Saints to the praiſes of God with<g ref="char:EOLhyphen"/>out ceaſing or wearineſſe, <hi>Apoca.</hi> 4.8.10. For as the ſenſe of wants doe moue vs
+<pb n="9" facs="tcp:176848:6"/> to prayer, ſo the loue of Gods mercies doe moue vs to praiſes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſi. </seg>3</label> How many ſorts are of thoſe that ſhall be partakers of this happineſſe, 1. Thoſe that liue godly from their very firſt years of diſcretion, that are ſanctified as <hi>Iohn</hi> the Baptiſt from their mothers wombe, <hi>Luke</hi> 1.15. theſe are thoſe that are called into Gods vineyard at the breake of day, <hi>Math.</hi> 20.1. The fewer ſort are conuerts who are called home to God after the courſe of a wicked and carnall life, theſe are thoſe that are called into the vineyard at other houres of the day, ſome rather ſome later, as it pleaſeth God to ſéeke them, neither is this priuiledge of this ſort ſmall, for Chriſt ſaith, <hi>there is ioy in hea<g ref="char:EOLhyphen"/>uen, and ioy in the preſence of the An<g ref="char:EOLhyphen"/>gels of God, for one ſinner that conuert<g ref="char:EOLhyphen"/>eth: Luke</hi> 15.7.11. In this ranke wée haue for example. The publican, <hi>Luk.</hi> 18.13. The prodigall ſonne, <hi>Luk.</hi> 15.20, 21. <hi>Zacheus. Luke</hi> 19.8, 9. The théeſe on the Croſſe called at the laſt houre, <hi>Luk.</hi> 23.42</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ </seg>4</label> The wayes wherein wée walke to this happineſſe are thrée. 1. Faith in Ieſus Chriſt, <hi>Math.</hi> 16.16. <hi>Ioh.</hi> 3.14, 15. 2. Good workes the fruits of faith, <hi>Rom.</hi> 2.7. <hi>Apo.</hi> 14.13. 3. Suffrings, <hi>Ro.</hi> 8.17.
+<pb n="10" facs="tcp:176848:7"/> where the Apoſtle teacheth that Chriſtian perfection of this life is not fulfilled in all poſſible practice of pietie, whereby we are made conformable to Chriſt in holy obe<g ref="char:EOLhyphen"/>dience, vnleſſe there be alſo a conformitie to Chriſt in his ſufferings, &amp; the reaſon is, becauſe Chriſtian integritie cannot goe ſcot-free from perſecution, 2 <hi>Tim.</hi> 3.12.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> This doctrine may encourage vs to vn<g ref="char:EOLhyphen"/>dergoe and to ſuffer the difficultie and ſe<g ref="char:EOLhyphen"/>verity of a godly and Chriſtian life for the great recompence ſake that is ſet before vs: although the gate be ſtraight, and the way narrow that leadeth to life, <hi>Math.</hi> 7.14. yet life at the end of the paſſage is a ſufficient motiue to cauſe vs to enter and paſſe through it, men labour here with ſweat &amp; care for the maintenance of this temporall life, although euer full of ſor<g ref="char:EOLhyphen"/>rowes and vexation, which alſo at length notwithſtanding all their labours and cares will leaue them, oh how great la<g ref="char:EOLhyphen"/>bours then ſhould we vndergoe, that wee may obtaine and enioy this eternall life, accompanied with all ioyes that neuer ſhall haue change or ending! but men now adayes dare not labour for the foode which periſheth not, for feare of looſing that foode which periſheth, they ſay they
+<pb n="11" facs="tcp:176848:7"/> cannot let their work to follow Sermons, to reade, to meditate, and pray; they bée weary with their wéekes worke, they muſt lie abed on Sundayes, they cannot ſpare time for their ſeruants to learne the principles of religion, they haue other fiſh to ſeethe. But were not he a foole, that would neglect to proſecute the inheritance of a kingdome, which on conditions hée might obtaine, for feare of looſing a few moueables at home, which alſo he is not ſure to keepe an houre: no leſſe is the folly of theſe men that will refuſe to ſeeke the kingdome of heauen and life eternall, which through Chriſt they may obtaine for euer, for feare of hinderance in their temporall eſtate which may bee taken from them in an houre.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> It may be a powerfull motiue to weane vs from the loue of the world and earthly pleaſures, which are the maine meanes to kéepe vs from this happineſſe, and to drowne vs in perditi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and deſtruction, 1 <hi>Tim.</hi> 6.9. He that might get a kingdome would he regard a cottage, hée that might haue gold would he regard a counter, and is it not a moſt vile folly that men will ſo much regard earthly riches, which either will forſake them, or elſe muſt be forſaken
+<pb n="12" facs="tcp:176848:8"/> of them that for the loue of them they will looſe thoſe heauenly riches, which ſhall ne<g ref="char:EOLhyphen"/>uer periſh, forſake vs, or be forſaken of vs. <hi>Math.</hi> 6.20. What are all things in this life but vanitie and vexation of ſpirit? as the wiſe-man teacheth, <hi>Eccle.</hi> 2.7. what he gained then that gained a world, what hath he obtained that inioyeth all the pleaſures of this life? ſurely he hath gai<g ref="char:EOLhyphen"/>ned vanity and loſt eternity, he hath got<g ref="char:EOLhyphen"/>ten vexation of ſpirit, and loſt the fulneſſe of ioy.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>3</label> It may ſtir vs vp patiently to ſuffer all the afflictions of this life yea, it may make them ſweet vnto vs. The former appre<g ref="char:EOLhyphen"/>henſions of the Aſſurance of a future ioy and preferment, make vs ſuffer our mean eſtate without ſenſe of grieuance, &amp; ſhall not the aſſurance of ſo vnſpeakable ioy apprehended by ſaith, of ſuch ioy I ſay as neither eye hath ſéene, eare hath heard, nor hath entred into the heart of man, 1. <hi>Cor.</hi> 2.9. make vs ſuffer the ſorrowes of this life with gladneſſe? True it is, <hi>many are the tribulations of the righteous,</hi> yea, they are great, <hi>Pſalme</hi> 34.19. they are of diuers ſorts, as the rage and ſubtil<g ref="char:EOLhyphen"/>tie of Satan, and his inſtruments can inuent, but if their greatneſſe multitude
+<pb n="13" facs="tcp:176848:8"/> and variety, be compared with the great<g ref="char:EOLhyphen"/>neſſe multitude and varietie of the ioys of heauen, there is no compariſon betwéene them, neither is the one worthy of the o<g ref="char:EOLhyphen"/>ther. <hi>Rom.</hi> 8.18.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe, </seg>4</label> It may ſerue for the comfort of all the faithfull ſeruants of God, that after the time of their labours, they ſhall haue a time of reſt, after their time of wéeping, they ſhall haue a time of reioycing. That although their wéeping for afflictions con<g ref="char:EOLhyphen"/>tinue to the ending of their temporall life, yet ioy ſhall come in the morning of their reſurrection. <hi>Pſ.</hi> 30.5. That although they ſow to the ſpirit during this life in teares, yet they ſhall reape all happineſſe in the life to come in eternall ioyes. <hi>Pſal.</hi> 126.3. that although now the world reioyce and triumph, and they mourne and lament, yet men, the men of this world ſhall wéep, waile, and gnaſh their téeth for euer: their <hi>ſorrow ſhall be turned into eternall ioy, Ioh.</hi> 16.20. Which hée that made vs giue vs, and to which hée that bought vs bring vs. <hi>Amen.</hi>
+            </p>
+            <p>
+               <g ref="char:dtristar">*⁎*</g>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
